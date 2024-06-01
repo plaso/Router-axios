@@ -1,0 +1,26 @@
+[
+  {
+    "id": "1",
+    "img": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_123463659?x=320&y=320&format=jpg&quality=80&sp=yes&strip=yes&trim&ex=320&ey=320&align=center&resizesource&unsharp=1.5x1+0.7+0.02&cox=0&coy=0&cdx=320&cdy=320",
+    "name": "Google Pixel 8, Obsidiana, 256 GB, 8 GB RAM, 6.2 \" OLED Full HD+, Google Tensor G3, 4.575 mAh, Android",
+    "price": 659,
+    "size": 6.2,
+    "memory": "256 GB",
+    "rating": 4,
+    "ratingVotes": 200,
+    "processor": "Google Tensor 3",
+    "admitSD": false
+  },
+  {
+    "id": "2",
+    "img": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_135510440?x=320&y=320&format=jpg&quality=80&sp=yes&strip=yes&trim&ex=320&ey=320&align=center&resizesource&unsharp=1.5x1+0.7+0.02&cox=0&coy=0&cdx=320&cdy=320",
+    "name": "Xiaomi Redmi Note 13 5G, Midnight Black, 256 GB, 8 GB RAM, 6.67\" AMOLED FHD+, MediaTek Dimensity 6080, 5000 mAh, Android",
+    "price": 279,
+    "size": 6.67,
+    "memory": "256 GB",
+    "rating": 4,
+    "ratingVotes": 200,
+    "processor": "MediaTek Dimensity 6080",
+    "admitSD": true
+  }
+]
